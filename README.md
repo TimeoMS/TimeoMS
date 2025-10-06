@@ -14,7 +14,7 @@
 <p align="center">
   Hi, I'm Morsilli Timeo, an IT student at <a href="https://iut.univ-amu.fr/fr/sites-geographiques/aix-en-provence">Iut Gaston Berger</a>
   <br>
-  💻 I love writing code, music and learn anythings about it
+  💻 I love writing code, music and learn anythings about it :)
   <br>
   📚 I’m currently learning how to make an application with Rust and Tauri !
   <br>
